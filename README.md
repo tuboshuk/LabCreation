@@ -13,3 +13,6 @@
 - [Chief Tech Lead Guideline](./docs/roles/chief-tech-lead-guideline.md)
 - [Frontend Tech Lead Guideline](./docs/roles/frontend-tech-lead-guideline.md)
 - [Backend Tech Lead Guideline](./docs/roles/backend-tech-lead-guideline.md)
+- [Frontend Developer Guideline](./docs/roles/frontend-developer-guideline.md)
+- [Backend Developer Guideline](./docs/roles/backend-developer-guideline.md)
+- [QA Guideline](./docs/roles/qa-guideline.md)
