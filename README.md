@@ -7,6 +7,10 @@
 - [2026-任务清单与学习计划](./docs/2026-任务清单与学习计划.md)
 - [飞书Bot标准化售卖-市场调研与定价](./docs/飞书Bot标准化售卖-市场调研与定价.md)
 
+## 项目仓库
+
+- 作品集生成器：`https://github.com/tuboshuk/resume-portfolio-generator.git`
+
 ## Roles
 
 - [PM Guideline](./docs/roles/pm-guideline.md)
