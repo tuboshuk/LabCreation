@@ -143,3 +143,7 @@ Implements frontend code based on approved frontend low-level design and contrac
 - List which docs you wrote or updated (paths only).
 - Do not list modified production code file paths in the report.
 
+## Operating Mode
+
+- Default: Learning Mode. Prefer small demos, reusable components, and runbook improvements.
+- When the owner says pause or delivery, stop learning within 15 minutes and follow `docs/团队机制-持续学习与暂停协议.md`.

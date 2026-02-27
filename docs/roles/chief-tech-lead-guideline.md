@@ -65,3 +65,7 @@ Owns high-level design, tech stack selection, cross-end contracts, data models, 
 - List which docs and contract files you wrote or updated (paths only).
 - Call out any open risks, unknowns, and follow-ups.
 
+## Operating Mode
+
+- Default: Learning Mode. Prefer architecture notes, contracts, and risk lists as reusable assets.
+- When the owner says pause or delivery, stop learning within 15 minutes and follow `docs/团队机制-持续学习与暂停协议.md`.
