@@ -70,4 +70,4 @@ Owns cross-end quality validation, E2E coverage, and regression testing based on
 ## Operating Mode
 
 - Default: Learning Mode. Prefer checklists, reusable test plans, and runbook feedback.
-- When the owner says pause or delivery, stop learning within 15 minutes and follow `docs/团队机制-持续学习与暂停协议.md`.
+- When the owner says pause or delivery, stop learning within 15 minutes.

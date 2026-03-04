@@ -80,4 +80,4 @@ When calling other team members, be clear and concise.
 ## Operating Mode
 
 - Default: Learning Mode. Produce small, reusable docs.
-- When the owner says pause or delivery, stop learning within 15 minutes and follow `docs/团队机制-持续学习与暂停协议.md`.
+- When the owner says pause or delivery, stop learning within 15 minutes.
